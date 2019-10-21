@@ -20,4 +20,4 @@ RUN chmod +x ./wait.sh
 
 USER $user
 
-CMD ./wait.sh ./startup.sh
+CMD ./startup.sh
